@@ -33,7 +33,9 @@ No Portugol IDE, clique no botão de execução para rodar os programas. Certifi
 
 ## Contribuindo
 
-Se você encontrar erros nos exercícios ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é bem-vinda!
+Sinta-se à vontade para contribuir para este repositório! Se você encontrar algum problema nos exercícios existentes ou tiver sugestões para melhorias, por favor, abra uma issue ou envie um pull request.
 
-Divirta-se programando! 🚀
+Espero que este repositório seja útil para você! Se tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato.
+
+Let's Code!🚀
 
