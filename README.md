@@ -21,18 +21,14 @@ Neste exercício, o programa gera uma tabuada com base no tipo de operação esc
 
 ## Como Executar os Programas
 
-Instale um Ambiente de Desenvolvimento Portugol:
+:collision:Instale um Ambiente de Desenvolvimento Portugol:
 Antes de executar os programas, é necessário ter um ambiente de desenvolvimento Portugol configurado em seu sistema. Você pode obter o Portugol IDE em http://lite.acad.univali.br/portugol/.
 
-Abra os Arquivos no Portugol IDE:
+:collision:Abra os Arquivos no Portugol IDE:
 Abra os arquivos .portugol no Portugol IDE para visualizar o código-fonte e executar os programas.
 
-Execute os Programas:
+:collision:Execute os Programas:
 No Portugol IDE, clique no botão de execução para rodar os programas. Certifique-se de fornecer as entradas necessárias conforme solicitado pelo programa para ver os resultados.
-    
-## Feedback
-
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
 
 
 ## Contribuindo
